@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,unitial-scale=1.0">
+  <title> Diabetes causas,tipos e sintomas</title>
+  <link rel="styleheet" href="style.css">
+
+</head>
+   <!-- Essa parte do código muda o tamanho e acor dos textos para o padrão que definimos -->
+<body>
+  
+  <style type="text/css">
+    body { background-color: #c3fad2 ;}
+    h1 {
+      color: purple;
+      font-size: 17pt
+      
+     
+     
+    }
+
+    h2 {
+      color: black;
+      font-size: 14pt;
+     
+    }
+
+    p {
+      color: black;
+      font-size: 12pt
+     
+    }
+
+    h4 {
+      color: purple;
+      font-size: 22pt
+     
+    }
+
+    h5 {
+      color: black;
+      font-size: 13pt
+     
+    }
+    .text-align{
+      margin-left: 200px;
+      margin-right: 200px;
+    }
+      .imagem-container {
+          display: flex;
+          gap: 100px; /* Espaço entre as imagens */
+      }
+      .imagem-container img {
+          width: 400px; 
+        height: 400px;/* Ajuste o tamanho da imagem */
+      }
+    
+      .card{
+        background-color: #c3fad2 ;
+      }
+    
+
+    
+  </style>
+  <div class="text-align">
+  <div>
+  <h4 class="text-center">
+    Diabetes
+  </h4>
+    <!-- Essa parte do código insere um texto explicando sobre a diabetes -->
+    <h5>
+      A diabetes é uma condição metabólica crônica que ocorre quando o corpo não consegue regular corretamente os níveis
+      de glicose (açúcar) no sangue. Isso acontece por problemas na produção ou ação da insulina, um hormônio produzido
+      pelo pâncreas que ajuda as células do corpo a absorver a glicose para gerar energia.
+      
+      <h3> Estatísticas de Idade e Diabetes</h3>
+      
+      <p>As estatísticas sobre diabetes variam dependendo do tipo da doença, da região e de fatores demográficos como sexo, etnia e histórico familiar. De maneira geral, a diabetes está associada a fatores de risco como envelhecimento, obesidade e sedentarismo. A seguir, vamos detalhar as tendências de idade para os diferentes tipos de diabetes:</p>
+
+     <p>Diabetes Tipo 1
+      Idade comum de diagnóstico: A diabetes tipo 1 é mais comumente diagnosticada em crianças e jovens adultos. Aproximadamente 70% dos casos são diagnosticados antes dos 30 anos de idade, com o pico de diagnóstico geralmente ocorrendo entre os 5 e 7 anos e novamente entre os 11 e 14 anos.
+      Idade mais avançada: Embora seja menos comum, o diagnóstico de diabetes tipo 1 em adultos também está aumentando. A incidência de diabetes tipo 1 em adultos é geralmente mais rara, mas, em algumas regiões, pode representar até 10% dos casos novos de diabetes tipo 1.</p>
+       
+      
+     <p>Diabetes Tipo 2
+      Idade mais comum: A diabetes tipo 2 é mais prevalente em adultos mais velhos, especialmente a partir dos 45 anos. Porém, o aumento de fatores de risco como obesidade infantil e sedentarismo tem levado a um crescimento significativo de casos em jovens.
+      Aumento em jovens: Estudos mostram que, em países como os Estados Unidos, casos de diabetes tipo 2 em adolescentes e jovens adultos estão aumentando devido ao aumento de obesidade e hábitos alimentares inadequados. Nos últimos anos, tem-se observado um aumento no diagnóstico de diabetes tipo 2 em pessoas com menos de 30 anos.</p>
+      
+      <p>Idosos: O risco de diabetes tipo 2 aumenta significativamente com a idade avançada, especialmente após os 65 anos. Em muitas populações, a prevalência de diabetes tipo 2 em adultos mais velhos pode ser superior a 20%.</p>
+      
+      <p>Diabetes Gestacional
+      Idade comum: A diabetes gestacional é mais comum em mulheres que estão na faixa etária dos 25 a 40 anos e que apresentam fatores de risco como sobrepeso, histórico familiar de diabetes, idade avançada na gestação e obesidade.Risco aumentado com a idade: Mulheres com mais de 35 anos têm um risco maior de desenvolver diabetes gestacional devido a mudanças hormonais associadas à gravidez.</p>
+      
+      <p>Pré-diabetes
+      Idade comum: A pré-diabetes é geralmente detectada em adultos a partir dos 45 anos, mas o aumento de fatores de risco tem levado a diagnósticos mais jovens, com muitas pessoas com 20 a 40 anos apresentando sinais de resistência à insulina.
+      Idosos e obesidade: A prevalência de pré-diabetes aumenta significativamente com a idade, especialmente entre os 55 e 64 anos, e é fortemente associada ao sobrepeso e obesidade.</p>
+   
+    </h5>  <!-- Essa parte do código insere uma imagem referente ao assunto e formata para o padrão que definimos -->
+    <div class="imagem-container">
+     <img src="/idadediabete.png" alt="imagem"> 
+      <img src="/248553301_5189135527779921_7104164318716436065_n.png" class="img-fluid" alt="imagem">
+       </div>
+    <h1>Tipos </h1>
+    <h2>Pré Diabetes</h2>
+    <p>Acontece quando o nível de açúcar no sangue esta aumentado, mas ainda não é o suficiente para fazer o diagnóstico
+      de Diabetes. O grupo de alto risco desse tipo é em sua maioria composto de pessoas com obesidade e hipertensão
+      arterial  
+    </p> <!-- Essa parte do código insere um texto explicando sobre os tipos de diabetes -->
+    <h2>Diabetes tipo 1</h2>
+    <p>Em 5 a 10% dos casos de diabetes, correspondem ao tipo 1, no qual o sistema imunológico atacam as células que
+      produzem a insulina. Assim, não há produção suficiente para fazer com que a glicose entre nas células,
+      permanecendo na corrente sanguínea, ocasionando aumento nas taxas de glicemia.</p>
+    <h2>Diabetes tipo 2</h2>
+    <p>ocorre quando o corpo não aproveita adequadamente a insulina produzida. A causa do diabetes tipo 2 está
+      diretamente relacionado ao sobrepeso, sedentarismo, triglicerídeos elevados, hipertensão.e hábitos alimentares
+      inadequados.
+    </p>
+    <h2>Diabetes gesticional</h2>
+    <p>A doença ocorre somente durante a gestação, curando-se logo após o parto.
+      A incidência do distúrbio tem aumentado a cada ano, assim como a ocorrência do diabetes tipo 2 – essa, inclusive,
+      pode ser uma consequência do diabetes não tratado durante a gravidez.
+    </p>
+    <h1>Sintomas</h1>
+    <h2>Pré diabetes</h2>
+    <p>O maior problema da pré-diabetes é o fato de ser uma doença silenciosa, pois não ocasiona sintomas.</p>
+    <h2>Diabetes tipo 1 </h2>
+    <p>Os principais sintomas em pessoas com níveis altos de glicose no sangue são fome frequente, sede constante,
+      perda de peso, mudança de humor, náusea e vômito.</p>
+    <h2>Diabetes tipo 2</h2>
+    <p> Os principais sintomas são infecções frequentes, alteração visual, dificuldade na cicatrização de feridas e
+      formigamento nos pés. </p>
+    <h2>Diabetes gesticional</h1>
+      <p> sede constante, maior vontade de urinar, cansaço e aumento do apetite.
+    </h2>
+    <h1>Prevenção</h1>
+    <p>A melhor forma de prevenir é praticando atividades físicas regularmente, mantendo uma alimentação saudável e
+      evitando consumo de álcool, tabaco e outras drogas. Comportamentos saudáveis evitam não apenas o diabetes, mas
+      outras doenças crônicas, como o câncer.
+    </p>
+    <h1>Referências</h1>
+    
+    <p><a class="link-opacity-100" href="https://www.valemaissaude.com.br/materia/principais-tipos-de-diabetes">Site Vale mais Saúde</a></p>
+      <p><a class="link-opacity-100" href="https://www.tjes.jus.br/conhecendo-a-diabetes/#:~:text=N%C3%A3o%20se%20sabe%20ao%20certo,pode%20surgir%20em%20qualquer%20idade.">Site do TJES</a></p>
+    <div class="container">
+    </div>
+    
+  </div>
+  
+    <div class="card">
+      <div class="card-body">
+       Colaboradores: Gabriel Freire (gabmarteen@gmail.com), Erik Figueiredo (figueiredoerik8@gmail.com), Davi Ribeiro (davirm0609@gmail.com)
+      </div>
+    </div>
+
+</body>
+
+</html>
